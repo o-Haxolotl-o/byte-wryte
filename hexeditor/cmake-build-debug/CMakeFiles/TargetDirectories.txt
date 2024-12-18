@@ -1,3 +1,0 @@
-/home/archie/Documents/cpp/hexeditor/cmake-build-debug/CMakeFiles/bytewryte.dir
-/home/archie/Documents/cpp/hexeditor/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/archie/Documents/cpp/hexeditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
